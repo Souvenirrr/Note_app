@@ -2,14 +2,10 @@
 
 This Application is Created Using Flutter.
 
-![The example app running in Android](https://github.com/simformsolutions/flutter_note_app/blob/master/preview/preview.gif)
-
-## Featues 
-
-*  Save Note.
-*  Dynamic Theame.
-*  Share App Directly from Application.
-*  Amazing Animation on FAB.
+## Tính năng
+*  Lưu ghi chú
+*  Thêm sửa xóa ghi chú
+*  Themes có 2 chế độ
 
 ## Packages Used
 *  [SQFlite]( https://pub.dev/packages/sqflite )
