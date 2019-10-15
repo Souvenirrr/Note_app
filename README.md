@@ -5,7 +5,7 @@ This Application is Created Using Flutter.
 ## Tính năng
 *  Lưu ghi chú
 *  Thêm sửa xóa ghi chú
-*  Themes có 2 chế độ
+*  Themes có 2 chế độ: Dark và Light
 
 ## Packages Used
 *  [SQFlite]( https://pub.dev/packages/sqflite )
